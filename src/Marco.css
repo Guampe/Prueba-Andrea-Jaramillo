@@ -1,0 +1,27 @@
+.marcoIm {
+  padding: 50px 250px;
+  height: 450px;
+  position: fixed;
+  z-index: 20;
+}
+
+.acaIm {
+  padding: 170px 180px;
+  height: 60px;
+  position: fixed;
+  z-index: 30;
+}
+
+.exploIm {
+  padding: 75px 1010px;
+  height: 60px;
+  position: fixed;
+  z-index: 30;
+}
+
+.aunIm {
+  padding: 95px 740px;
+  height: 90px;
+  position: fixed;
+  z-index: 30;
+}

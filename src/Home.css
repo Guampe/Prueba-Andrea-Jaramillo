@@ -1,0 +1,6 @@
+.home {
+  min-height: 100vh;
+  background: url(./imagenes/interior_casa_indonesia_completa.png) no-repeat
+    center center fixed;
+  background-size: cover;
+}
